@@ -1,5 +1,7 @@
 Project mission and goal?
+
 Project attributes (dimensions and facts)?
+
 What metrics are you planning to analyze?
 
 P MISSION AND GOAL:
