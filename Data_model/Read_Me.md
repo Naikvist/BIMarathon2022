@@ -1,17 +1,17 @@
-Business purpose: Identify which type of ads was better efficient during Superbowl translation from 2000 to 2021
+Business purpose: Analyze univercities around the world and identify which is prefered among international students
 
 -------------------------------------------------------------------------------------------------------------------
-Grain: Cost of the ads during the superbowl translation with amount of  'likes' on TV and Youtube platform
+Grain: Amount of international students per location and year
 
 -------------------------------------------------------------------------------------------------------------------
 
 Dimensions:
 
-1) Brand
-2) Link
+1) Location
+2) Name
 
 Facts:
 
-1)Advertisement
+1) Univercity
 
 
