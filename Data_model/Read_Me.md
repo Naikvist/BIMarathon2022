@@ -12,6 +12,6 @@ Dimensions:
 
 Facts:
 
-1) Univercity
+1) University
 
 
