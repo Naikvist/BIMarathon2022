@@ -8,10 +8,10 @@ Grain: Amount of international students per location and year
 Dimensions:
 
 1) Location
-2) Name
+2) University
 
 Facts:
 
-1) University
+1) About
 
 
